@@ -5,7 +5,7 @@ const meta = {
 };
 
 const introdata = {
-    title: "Hello World, I'm Kenechuku Richard Benjamin", 
+    title: "Hello World, I'm Kenechukwu Okeke", 
     animated: {
         first: "Technologist",
         second: "Visionary",
