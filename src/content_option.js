@@ -1,7 +1,7 @@
-const logotext = "KRB";
+const logotext = "Kene";
 const meta = {
-    title: "Kenechuku Richard Benjamin",
-    description: "I'm Kenechuku Richard Benjamin, a technologist and cybersecurity enthuist.",
+    title: "Kenechukwu Okeke",
+    description: "I'm KKenechukwu Okeke, a technologist and cybersecurity enthuist.",
 };
 
 const introdata = {
@@ -9,7 +9,7 @@ const introdata = {
     animated: {
         first: "Technologist",
         second: "Visionary",
-        third: "Ethical Hacker",
+        third: "Cloud Engineer",
         fourth: "Programmer",
         fifth: "Networking Expert",
         sixth: "Analyst",
@@ -21,7 +21,7 @@ const introdata = {
 
 const dataabout = {
     title: "Who am I?",
-    aboutme: "Hello! I'm Kenechuku Richard Benjamin, a dedicated cybersecurity professional with a strong passion for safeguarding digital environments. With a solid foundation in security protocols and threat management, I specialize in identifying vulnerabilities and implementing effective strategies to protect systems from potential attacks. In addition to my cybersecurity expertise, I also have a keen interest and skills in basic web development, enjoying the process of creating secure, functional, and user-friendly websites. I combine my security and development experience to provide comprehensive solutions for clients and organizations, and I’m committed to continuous learning to stay up-to-date with the latest trends in both fields. Let’s connect and discuss how I can help you secure and optimize your online presence!",
+    aboutme: "Hello! I'm Kenechukwu Okeke, a dedicated cybersecurity professional with a strong passion for safeguarding digital environments. With a solid foundation in security protocols and threat management, I specialize in identifying vulnerabilities and implementing effective strategies to protect systems from potential attacks. In addition to my cybersecurity expertise, I also have a keen interest and skills in basic web development, enjoying the process of creating secure, functional, and user-friendly websites. I combine my security and development experience to provide comprehensive solutions for clients and organizations, and I’m committed to continuous learning to stay up-to-date with the latest trends in both fields. Let’s connect and discuss how I can help you secure and optimize your online presence!",
 };
 const worktimeline = [{
         jobtitle: "Graduate",
