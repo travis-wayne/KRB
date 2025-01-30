@@ -87,9 +87,9 @@ const dataportfolio = [{
         link: "https://github.com/RichardBenjamin/AFIT-Portal",
     },
     {
-        img: "https://picsum.photos/400/600/?grayscale",
-        description: "A collaborative joint development on a webapp where technicains meet the consumers. It is a very seemless intergration.",
-        link: "https://github.com/travis-wayne/techconnet",
+        img: "https://picsum.photos/400/?grayscale",
+        description: "An online platform where pot artist can advertise and sell their clay creations and explore new ideas about pottery.",
+        link: "https://github.com/RichardBenjamin/PotterPalleteFB",
     },
     {
         img: "https://picsum.photos/400/300/?grayscale",
