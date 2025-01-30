@@ -79,7 +79,7 @@ const skills = [{
 const dataportfolio = [{
         img: "https://picsum.photos/400/500/",
         description: "GDORKER-py is a Python-based command-line utility that leverages Google search operators...",
-        link: "https://github.com/travis-wayne/GDORKER---py",
+        link: "https://github.com/RichardBenjamin/GDORKER-py",
     },
     {
         img: "https://picsum.photos/400/800/?grayscale",
@@ -99,7 +99,7 @@ const dataportfolio = [{
     {
         img: "https://picsum.photos/400/300/?grayscale",
         description: "A clone app the gets picyures from unsplash API.",
-        link: "https://github.com/travis-wayne/Unsplash-clone",
+        link: "https://github.com/RichardBenjamin/Unsplash-Clone",
     },
     // {
     //     img: "https://picsum.photos/400/700/?grayscale",
