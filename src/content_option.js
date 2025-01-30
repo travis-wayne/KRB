@@ -7,8 +7,8 @@ const meta = {
 const introdata = {
     title: "Hello World, I'm Kenechukwu Okeke", 
     animated: {
-        first: "Technologist",
-        second: "Visionary",
+        first: "Web Developer",
+        second: "Cyber Security",
         third: "Cloud Engineer",
         fourth: "Programmer",
         fifth: "Networking Expert",
@@ -61,15 +61,18 @@ const skills = [{
     },
 
     {
-        name: "Reverse Engineering",
+        name: "Python",
     },
 
     {
-        name: "Web-Exploitation",
+        name: "Linux",
     },
 
     {
-        name: "Network Exploitation",
+        name: "Virtualization",
+    },
+    {
+        name: "Networking",
     },
 ];
 
