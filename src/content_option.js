@@ -24,19 +24,19 @@ const dataabout = {
     aboutme: "Hello! I'm Kenechuku Richard Benjamin, a dedicated cybersecurity professional with a strong passion for safeguarding digital environments. With a solid foundation in security protocols and threat management, I specialize in identifying vulnerabilities and implementing effective strategies to protect systems from potential attacks. In addition to my cybersecurity expertise, I also have a keen interest and skills in basic web development, enjoying the process of creating secure, functional, and user-friendly websites. I combine my security and development experience to provide comprehensive solutions for clients and organizations, and I’m committed to continuous learning to stay up-to-date with the latest trends in both fields. Let’s connect and discuss how I can help you secure and optimize your online presence!",
 };
 const worktimeline = [{
-        jobtitle: "Example 1",
-        where: "Google", 
+        jobtitle: "Graduate",
+        where: "AFIT", 
+        date: "2024",
+    },
+    {
+        jobtitle: "Intern",
+        where: "Ihifix", 
         date: "2023",
     },
     {
-        jobtitle: "Example 2",
-        where: "Micosoft",
+        jobtitle: "CISCO Networking",
+        where: "Kaduna",
         date: "2022",
-    },
-    {
-        jobtitle: "Example 3",
-        where: "Meta",
-        date: "2021",
     },
 ];
 
